@@ -337,7 +337,7 @@ div6.appendChild(img6t);
 const img7t=document.createElement('img');
 img7t.src='icons/twitter-brands.svg';
 img7t.alt='twitter';
-div7.appendChild(img7);
+div7.appendChild(img7t);
 const img8t=document.createElement('img');
 img8t.src='icons/twitter-brands.svg';
 img8t.alt='twitter';
